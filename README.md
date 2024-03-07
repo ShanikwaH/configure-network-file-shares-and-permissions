@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/gJkqIbs.png" alt="Network File Share Logo"/>
 </p>
 
-<h1>Configuring Network File Shares and Permissions within Azure</h1>
+<h1>onfigure-network-file-shares-and-permissions)</h1>
 This tutorial outlines the implementation of file sharing and permission settings within Azure Virtual Machines.<br />
 
 <h2>Environments and Technologies Used</h2>
